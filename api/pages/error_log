@@ -1,0 +1,651 @@
+[18-Jun-2023 02:22:58 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:22:58 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:25:37 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:25:37 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:25:38 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:25:38 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:25:38 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:25:38 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:25:39 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:25:39 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:26:10 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:26:10 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:27:09 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 50
+[18-Jun-2023 02:27:10 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 44
+[18-Jun-2023 02:27:10 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 44
+[18-Jun-2023 02:27:10 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 44
+[18-Jun-2023 02:27:11 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 44
+[18-Jun-2023 02:27:11 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 44
+[18-Jun-2023 02:27:11 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 44
+[18-Jun-2023 02:27:11 UTC] PHP Warning:  Undefined variable $content in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 44
+[18-Jun-2023 02:57:54 UTC] PHP Warning:  Undefined array key "id" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 54
+[18-Jun-2023 02:59:55 UTC] PHP Warning:  Undefined array key "id" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 64
+[18-Jun-2023 03:01:58 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 19
+[18-Jun-2023 03:01:58 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 19
+[18-Jun-2023 03:01:59 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 19
+[18-Jun-2023 03:02:26 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 19
+[18-Jun-2023 03:02:27 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 19
+[18-Jun-2023 03:02:27 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 19
+[18-Jun-2023 03:05:00 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 19
+[18-Jun-2023 03:05:14 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 19
+[18-Jun-2023 03:05:15 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 19
+[18-Jun-2023 03:05:15 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 19
+[18-Jun-2023 03:13:14 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 03:13:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:21
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(21): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 21
+[18-Jun-2023 03:13:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:21
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(21): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 21
+[18-Jun-2023 03:34:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.scrollup_table' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php:25
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 25
+[18-Jun-2023 03:41:51 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 03:46:00 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 107
+[18-Jun-2023 03:46:00 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 114
+[18-Jun-2023 03:46:24 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 107
+[18-Jun-2023 03:46:24 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 114
+[18-Jun-2023 03:47:12 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 106
+[18-Jun-2023 03:47:12 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 113
+[18-Jun-2023 03:47:34 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 106
+[18-Jun-2023 03:47:34 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 113
+[18-Jun-2023 03:51:52 UTC] PHP Warning:  Undefined array key "scrollup-id" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 84
+[18-Jun-2023 03:58:58 UTC] PHP Warning:  Undefined array key "bluetooth_status" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 126
+[18-Jun-2023 03:58:58 UTC] PHP Warning:  Undefined array key "bluetooth_status" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 126
+[18-Jun-2023 04:17:19 UTC] PHP Parse error:  syntax error, unexpected token "catch", expecting end of file in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 162
+[18-Jun-2023 04:18:08 UTC] PHP Parse error:  syntax error, unexpected variable "$e" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 162
+[18-Jun-2023 04:19:03 UTC] PHP Warning:  Undefined array key "foto" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 131
+[18-Jun-2023 04:19:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:19:03 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:19:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:19:03 UTC] PHP Warning:  finfo_file(uploads/): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 143
+[18-Jun-2023 04:19:03 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:19:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:20:23 UTC] PHP Warning:  Undefined array key "foto" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 131
+[18-Jun-2023 04:20:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:20:23 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:20:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:20:23 UTC] PHP Warning:  finfo_file(uploads/): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 143
+[18-Jun-2023 04:20:23 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:20:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:20:25 UTC] PHP Warning:  Undefined array key "foto" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 131
+[18-Jun-2023 04:20:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:20:25 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:20:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:20:25 UTC] PHP Warning:  finfo_file(uploads/): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 143
+[18-Jun-2023 04:20:25 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:20:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:21:34 UTC] PHP Warning:  move_uploaded_file(uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:21:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpA9YGPP' to 'uploads/favicon.png' in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:21:34 UTC] PHP Warning:  finfo_file(uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 143
+[18-Jun-2023 04:21:34 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:22:08 UTC] PHP Warning:  move_uploaded_file(uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:22:08 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpo77fPM' to 'uploads/favicon.png' in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:22:08 UTC] PHP Warning:  finfo_file(uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 143
+[18-Jun-2023 04:22:08 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:22:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:22:20 UTC] PHP Warning:  move_uploaded_file(../uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:22:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAG7zya' to '../uploads/favicon.png' in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:22:20 UTC] PHP Warning:  finfo_file(../uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 143
+[18-Jun-2023 04:22:20 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:22:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:22:23 UTC] PHP Warning:  move_uploaded_file(../uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:22:23 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php60aaVs' to '../uploads/favicon.png' in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 138
+[18-Jun-2023 04:22:23 UTC] PHP Warning:  finfo_file(../uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 143
+[18-Jun-2023 04:22:23 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:22:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/islem.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 153
+[18-Jun-2023 04:23:43 UTC] PHP Warning:  move_uploaded_file(../uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:23:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJuX4Qn' to '../uploads/favicon.png' in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:23:43 UTC] PHP Warning:  finfo_file(../uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 142
+[18-Jun-2023 04:23:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'duration	, content_type) VALUES ('../uploads/favicon.png', 'sdad', 'sdasda', ...' at line 1 in /home/firstrip/panel.firstrip.com.tr/pages/islem.php:158
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/islem.php(158): PDOStatement->execute()
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 158
+[18-Jun-2023 04:23:58 UTC] PHP Warning:  move_uploaded_file(../uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:23:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8D7uN7' to '../uploads/favicon.png' in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:23:58 UTC] PHP Warning:  finfo_file(../uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 142
+[18-Jun-2023 04:24:16 UTC] PHP Warning:  move_uploaded_file(../uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:24:16 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQ5LB3L' to '../uploads/favicon.png' in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 137
+[18-Jun-2023 04:24:16 UTC] PHP Warning:  finfo_file(../uploads/favicon.png): Failed to open stream: No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 142
+[18-Jun-2023 04:31:43 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:43 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:43 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:43 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:48 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:48 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:48 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:48 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:56 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:56 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:56 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:31:56 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:33:12 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:33:12 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:33:12 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:33:12 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:33:24 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:33:24 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:33:24 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:33:24 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:06 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:06 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:06 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:06 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scrollup_id' in 'field list' in /home/firstrip/panel.firstrip.com.tr/pages/islem.php:116
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/islem.php(116): PDOStatement->execute()
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 116
+[18-Jun-2023 04:35:57 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:57 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:57 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:57 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:57 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:57 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:57 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:35:57 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:17 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:17 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:17 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:17 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:18 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:18 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:18 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:18 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:38:30 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:40:13 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:41:46 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:03 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:03 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:03 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:03 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:03 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:03 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:03 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:03 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:04 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:04 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:04 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:04 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:04 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:04 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:04 UTC] PHP Warning:  Undefined array key "content_ duration" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:42:04 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 242
+[18-Jun-2023 04:45:31 UTC] PHP Parse error:  Unclosed '{' on line 57 in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 387
+[18-Jun-2023 04:45:32 UTC] PHP Parse error:  Unclosed '{' on line 57 in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 387
+[18-Jun-2023 04:49:17 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 04:49:17 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 158
+[18-Jun-2023 04:52:32 UTC] PHP Warning:  Undefined variable $db in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:52:34 UTC] PHP Warning:  Undefined variable $db in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:53:12 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:53:13 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:53:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:53:14 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:53:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:53:14 UTC] PHP Warning:  Undefined variable $conn in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:53:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 13
+[18-Jun-2023 04:53:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:17
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 17
+[18-Jun-2023 04:53:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:17
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 17
+[18-Jun-2023 04:53:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:17
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 17
+[18-Jun-2023 04:53:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:17
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 17
+[18-Jun-2023 04:53:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:23
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(23): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 23
+[18-Jun-2023 04:53:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:23
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(23): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 23
+[18-Jun-2023 04:53:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:23
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(23): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 23
+[18-Jun-2023 04:53:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:23
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(23): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 23
+[18-Jun-2023 04:53:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:23
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(23): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 23
+[18-Jun-2023 04:54:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:23
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(23): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 23
+[18-Jun-2023 04:54:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:23
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(23): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 23
+[18-Jun-2023 04:54:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:23
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(23): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 23
+[18-Jun-2023 04:54:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'firstrip_scrollup.contents' doesn't exist in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php:23
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php(23): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 23
+[18-Jun-2023 04:58:34 UTC] PHP Warning:  Undefined variable $<img src="" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:34 UTC] PHP Warning:  Undefined variable $Geçersiz içerik türü in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:34 UTC] PHP Warning:  Undefined variable $<img src="../uploads/648e8a4649d1a.png" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:34 UTC] PHP Warning:  Undefined variable $<img src="../uploads/648e8b1bb9a10.png" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:34 UTC] PHP Warning:  Undefined variable $<img src="" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:34 UTC] PHP Warning:  Undefined variable $Geçersiz içerik türü in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:34 UTC] PHP Warning:  Undefined variable $<img src="../uploads/648e8a4649d1a.png" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:34 UTC] PHP Warning:  Undefined variable $<img src="../uploads/648e8b1bb9a10.png" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:35 UTC] PHP Warning:  Undefined variable $<img src="" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:35 UTC] PHP Warning:  Undefined variable $Geçersiz içerik türü in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:35 UTC] PHP Warning:  Undefined variable $<img src="../uploads/648e8a4649d1a.png" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:35 UTC] PHP Warning:  Undefined variable $<img src="../uploads/648e8b1bb9a10.png" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:36 UTC] PHP Warning:  Undefined variable $<img src="" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:36 UTC] PHP Warning:  Undefined variable $Geçersiz içerik türü in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:36 UTC] PHP Warning:  Undefined variable $<img src="../uploads/648e8a4649d1a.png" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 04:58:36 UTC] PHP Warning:  Undefined variable $<img src="../uploads/648e8b1bb9a10.png" alt="Image"> in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 248
+[18-Jun-2023 05:05:07 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 141
+[18-Jun-2023 05:05:08 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 141
+[18-Jun-2023 05:05:21 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 141
+[18-Jun-2023 05:05:21 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 141
+[18-Jun-2023 05:05:54 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 141
+[18-Jun-2023 05:05:55 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 141
+[18-Jun-2023 05:05:55 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 141
+[18-Jun-2023 05:05:55 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 141
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Undefined variable $row in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 122
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 122
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Undefined variable $row in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 123
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 123
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Undefined variable $row in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 124
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 124
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Undefined variable $row in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 125
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 125
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Undefined variable $row in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 126
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 126
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Undefined variable $row in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 122
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 122
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Undefined variable $row in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 123
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 123
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Undefined variable $row in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 124
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 124
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Undefined variable $row in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 125
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 125
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Undefined variable $row in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 126
+[18-Jun-2023 05:09:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 126
+[18-Jun-2023 05:15:37 UTC] PHP Warning:  Undefined variable $playlist_sorgu in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 20
+[18-Jun-2023 05:15:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 20
+[18-Jun-2023 05:15:38 UTC] PHP Warning:  Undefined variable $playlist_sorgu in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 20
+[18-Jun-2023 05:15:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 20
+[18-Jun-2023 05:15:59 UTC] PHP Warning:  Undefined variable $playlist_sorgu in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 20
+[18-Jun-2023 05:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 20
+[18-Jun-2023 05:15:59 UTC] PHP Warning:  Undefined variable $scrollup_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 148
+[18-Jun-2023 05:15:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 148
+[18-Jun-2023 05:15:59 UTC] PHP Warning:  Undefined variable $c in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 150
+[18-Jun-2023 05:15:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 150
+[18-Jun-2023 05:16:00 UTC] PHP Warning:  Undefined variable $scrollup_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 148
+[18-Jun-2023 05:16:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 148
+[18-Jun-2023 05:16:00 UTC] PHP Warning:  Undefined variable $c in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 150
+[18-Jun-2023 05:16:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 150
+[18-Jun-2023 05:20:07 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 05:22:37 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 135
+[18-Jun-2023 05:28:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'playlist_id' in 'where clause' in /home/firstrip/panel.firstrip.com.tr/pages/islem.php:194
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/islem.php(194): PDOStatement->execute()
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 194
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 198
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:28:38 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:29:45 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:29:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:29:45 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:29:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:29:45 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:29:46 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:29:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:29:46 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:29:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:29:46 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 198
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:23 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:30:39 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:39 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:39 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:30:40 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:40 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:40 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:30:42 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:42 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:42 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:30:42 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:42 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:42 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:30:45 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:45 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:45 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:30:46 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:30:46 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:30:46 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:31:28 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 198
+[18-Jun-2023 05:31:28 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:31:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:31:28 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:31:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:31:28 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:31:29 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:31:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:31:29 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:31:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:31:29 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:33:07 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:33:07 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:33:07 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:33:07 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:33:07 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:33:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:33:07 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:34:42 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:34:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:34:42 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:34:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:34:42 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:34:43 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:34:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 149
+[18-Jun-2023 05:34:43 UTC] PHP Warning:  Undefined variable $playlist_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:34:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 151
+[18-Jun-2023 05:34:43 UTC] PHP Warning:  Undefined array key "playlist_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist-duzenle.php on line 163
+[18-Jun-2023 05:39:53 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:39:53 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:39:54 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:39:54 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:39:56 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:39:56 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:39:56 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:39:56 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:41:15 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 210
+[18-Jun-2023 05:41:18 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 210
+[18-Jun-2023 05:41:18 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:41:18 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:41:18 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:41:18 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:41:21 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:41:21 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:41:21 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:41:21 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:42:01 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:42:01 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:42:01 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:42:01 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:43:48 UTC] PHP Warning:  unlink(): No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 228
+[18-Jun-2023 05:43:52 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:43:52 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:43:52 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:43:52 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:43:58 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:43:58 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:43:59 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:43:59 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:44:51 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:44:51 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:44:51 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:44:51 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 193
+[18-Jun-2023 05:47:12 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 05:47:18 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:01:25 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:01:25 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:01:25 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:01:26 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:01:26 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:01:26 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:18 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:18 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:18 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:18 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:18 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:18 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:19 UTC] PHP Warning:  Undefined array key "device_id" in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 16
+[18-Jun-2023 06:02:50 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/firstrip/panel.firstrip.com.tr/pages/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 12
+[18-Jun-2023 06:03:08 UTC] PHP Warning:  Undefined property: PDOStatement::$device_id in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 12
+[18-Jun-2023 06:03:08 UTC] PHP Warning:  Undefined property: PDOStatement::$device_id in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 12
+[18-Jun-2023 06:03:08 UTC] PHP Warning:  Undefined property: PDOStatement::$device_id in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 12
+[18-Jun-2023 06:03:09 UTC] PHP Warning:  Undefined property: PDOStatement::$device_id in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 12
+[18-Jun-2023 06:03:09 UTC] PHP Warning:  Undefined property: PDOStatement::$device_id in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 12
+[18-Jun-2023 06:03:09 UTC] PHP Warning:  Undefined property: PDOStatement::$device_id in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 12
+[18-Jun-2023 06:03:09 UTC] PHP Warning:  Undefined property: PDOStatement::$device_id in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 12
+[18-Jun-2023 06:03:10 UTC] PHP Warning:  Undefined property: PDOStatement::$device_id in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 12
+[18-Jun-2023 06:04:19 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 06:08:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'scrollup_id' in 'where clause' in /home/firstrip/panel.firstrip.com.tr/pages/index.php:19
+Stack trace:
+#0 /home/firstrip/panel.firstrip.com.tr/pages/index.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/firstrip/panel.firstrip.com.tr/pages/index.php on line 19
+[18-Jun-2023 06:39:02 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 06:39:02 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 06:39:05 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 06:39:35 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 06:41:11 UTC] PHP Warning:  unlink(../uploads/favicon.png): No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 228
+[18-Jun-2023 06:42:16 UTC] PHP Warning:  unlink(../uploads/favicon.png): No such file or directory in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 228
+[18-Jun-2023 06:42:22 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:42:22 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:42:22 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:42:22 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:42:25 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:42:25 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:42:25 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:42:25 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:42:40 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 9
+[18-Jun-2023 06:42:57 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 9
+[18-Jun-2023 06:44:05 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:44:05 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:44:06 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:44:06 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:45:08 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:45:08 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:45:08 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:45:08 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:45:08 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:45:08 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:45:08 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:45:08 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:45:09 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:45:09 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:45:09 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:45:09 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:45:09 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:45:09 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:45:09 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:45:09 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:45:30 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:45:30 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 06:45:30 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 19
+[18-Jun-2023 06:45:30 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-playlist.php on line 195
+[18-Jun-2023 07:09:11 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 07:11:37 UTC] PHP Warning:  move_uploaded_file(https://panel.firstrip.com.tr/uploads/648eae29c06ed.png): Failed to open stream: HTTP wrapper does not support writeable connections in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 98
+[18-Jun-2023 07:11:37 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpb9v1H0' to 'https://panel.firstrip.com.tr/uploads/648eae29c06ed.png' in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 98
+[18-Jun-2023 07:18:06 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 228
+[18-Jun-2023 07:18:08 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 07:18:26 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 228
+[18-Jun-2023 07:22:42 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 07:30:14 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 07:38:47 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 07:53:46 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 08:49:36 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 8
+[18-Jun-2023 08:49:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php:8) in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 14
+[18-Jun-2023 08:49:40 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 8
+[18-Jun-2023 08:49:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php:8) in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 14
+[18-Jun-2023 08:49:43 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 8
+[18-Jun-2023 08:49:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php:8) in /home/firstrip/panel.firstrip.com.tr/pages/scrolluplarim.php on line 14
+[18-Jun-2023 08:49:50 UTC] PHP Warning:  Undefined array key "kullanici_mail" in /home/firstrip/panel.firstrip.com.tr/pages/header.php on line 8
+[18-Jun-2023 09:06:21 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 259
+[18-Jun-2023 09:06:30 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 259
+[18-Jun-2023 09:06:39 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 259
+[18-Jun-2023 09:07:47 UTC] PHP Parse error:  syntax error, unexpected double-quoted string ");", expecting ")" in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 267
+[18-Jun-2023 09:08:46 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 259
+[18-Jun-2023 09:08:46 UTC] PHP Warning:  Undefined variable $scrollup_id in /home/firstrip/panel.firstrip.com.tr/pages/islem.php on line 263
+[18-Jun-2023 09:08:46 UTC] PHP Warning:  Undefined variable $scrollup_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 117
+[18-Jun-2023 09:08:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 117
+[18-Jun-2023 09:08:46 UTC] PHP Warning:  Undefined variable $scrollup_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 121
+[18-Jun-2023 09:08:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 121
+[18-Jun-2023 09:08:47 UTC] PHP Warning:  Undefined variable $scrollup_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 117
+[18-Jun-2023 09:08:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 117
+[18-Jun-2023 09:08:47 UTC] PHP Warning:  Undefined variable $scrollup_bilgi in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 121
+[18-Jun-2023 09:08:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/firstrip/panel.firstrip.com.tr/pages/scrollup-duzenle.php on line 121

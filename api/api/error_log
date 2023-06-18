@@ -1,0 +1,4 @@
+[18-Jun-2023 06:27:51 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/api/index.php on line 16
+[18-Jun-2023 06:29:13 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/api/index.php on line 16
+[18-Jun-2023 07:13:06 UTC] PHP Warning:  Undefined array key "scrollup_id" in /home/firstrip/panel.firstrip.com.tr/api/index.php on line 16
+[18-Jun-2023 07:20:27 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/firstrip/panel.firstrip.com.tr/api/index.php on line 46
